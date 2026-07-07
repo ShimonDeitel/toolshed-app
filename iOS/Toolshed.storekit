@@ -1,0 +1,42 @@
+{
+  "identifier": "toolshed",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Toolshed Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "toolshed_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks maintenance reminders and unlimited tool inventory.",
+              "displayName": "Toolshed Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "toolshed_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Toolshed Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
